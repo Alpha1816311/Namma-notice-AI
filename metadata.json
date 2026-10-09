@@ -1,0 +1,6 @@
+{
+  "name": "NammaNotice AI - Multimodal Gemma 4 Public Notice Decoder",
+  "description": "Empowering citizens and students to decode public notices, government circulars, and scholarship announcements in English, Kannada, and Hindi using Gemma 4 multimodal AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
